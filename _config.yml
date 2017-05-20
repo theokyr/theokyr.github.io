@@ -2,6 +2,8 @@
 
 paginate:            5
 disqus:              #"your-disqus"
+repository:          theokyr/theokyr.github.io
+github: [metadata]
 
 # Build settings
 markdown:            kramdown

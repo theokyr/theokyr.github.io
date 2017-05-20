@@ -19,6 +19,7 @@ permalink: /blog/
 </div>
 {% endfor %}
 
+{%comment%}
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
@@ -32,5 +33,6 @@ permalink: /blog/
     {% else %}
       <span class="pagination-button">Newer</span>
   {% endif %}
+{%endcomment%}
 
 </div>
