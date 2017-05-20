@@ -6,6 +6,11 @@ author: "theo"
 categories: blog
 tags: [blog]
 permalink: /blog/ruby-computers
+image:
+  feature: ruby-computers.jpg
+  teaser: ruby-computers.jpg
+  credit:
+  creditlink:
 ---
 
 When I was trying to come up with a gameplay hook for Ruby: Dark Influence (henceforth referred to as RDI), I came up with the idea of having Computers that change things in the environment of the game.
