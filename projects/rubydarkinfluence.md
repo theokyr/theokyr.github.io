@@ -1,7 +1,7 @@
 ---
 title: Ruby&#58; Dark Influence
 date: 2016-02-27
-layout: ruby
+layout: page
 permalink: /projects/ruby
 exclude_from_nav: true
 ---
