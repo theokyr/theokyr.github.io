@@ -13,7 +13,7 @@ image:
   creditlink:
 ---
 
-Well, the site has been updated to use the excellent (Lagrange theme by Paul Le)[https://github.com/LeNPaul/Lagrange].
+Well, the site has been updated to use the excellent [Lagrange theme by Paul Le](https://github.com/LeNPaul/Lagrange).
 
 Hopefully this gives me an excuse to update more often!
 
