@@ -7,12 +7,12 @@ exclude_from_nav: true
 ---
 
 What is Ruby: Dark Influence?
-=======
+-------
 
 It's a Sci-Fi First Person Shooter for Windows PC (also planned for Linux and Mac), built on Unity 5.
 
 What is the game about?
-=======
+-------
 
 The game focuses on combat and exploration, while doing away with conventions of modern FPS such as regenerating health and overplayed military settings.
 
@@ -23,7 +23,7 @@ There's also an emphasis on puzzle solving that gets tougher as the game progres
 You can learn more about Ruby: Dark Influence on its [dev blog](https://rubythegame.tumblr.com). I post video updates every few weeks.
 
 Screenshots
-=======
+-------
 
 ![Screen01]({{ site.url }}/images/rubydarkinfluence/rdiscreen_01.jpg)
 

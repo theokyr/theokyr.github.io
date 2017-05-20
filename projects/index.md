@@ -6,7 +6,7 @@ order: 2
 ---
 
 Active / Finished Projects:
-=======
+-------
 
 * [ **pyIrc** ](pyirc)
 
@@ -18,7 +18,7 @@ Singleplayer FPS Game for PC. Planned for release sometime in the 25th century.
 
 
 Shelved Projects:
-=======
+-------
 
 * [ **TuxGuitar-1.3.1-fork** ](https://github.com/theokyr/TuxGuitar-1.3.1-fork)
 

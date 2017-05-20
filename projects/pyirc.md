@@ -10,26 +10,31 @@ A simple, lightweight IRC Client written in Python.
 
 It has been released on its [GitHub Repository](https://github.com/theokyr/pyIrc/).
 
-## Prequisites
+Prequisites
+-------
 * Python 2.7.12
 * (Optional) Eclipse IDE with PyDev
 
-## Tested On
+Tested On
+-------
 * Debian 8 Jessie
 * Windows 10 
 * Windows 10 CygWin Terminal
 
-## Installation
+Installation
+-------
 1. Download and install Python 2.7.12 for your OS
 2. Clone pyIrc
 3. Done!
 
-## Usage
+Usage
+-------
 ```
 python pyirc
 ```
 
-## Command Line Arguments
+Command Line Arguments
+-------
 * ```-h, --help```
 Prints available arguments  
 * ``` -server	<address>  ```
@@ -47,5 +52,6 @@ Specifies a Real Name
 * ``` -r  ```
 Print server responses without formatting (Raw Lines Mode)  
 
-## License
+License
+-------
 pyIrc is licensed under the GNU Library or "Lesser" General Public License (LGPL) v3.

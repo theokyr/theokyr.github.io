@@ -13,13 +13,13 @@ User Stories Tool - Plugin for Eclipse
 developed by [Kristo Koci](https://github.com/crazedkiller) and [Theodoros Kyriazidis](https://github.com/theokyr)
 
 What it is
-=======
+-------
 
 The User Stories Tool is a plugin that allows developers to add real-time Requirement Traceability to their code.
 
 
 Features
-=======
+-------
 
 * Manage and Categorize User Stories (Requirements)
 * Search User Stories with a variety of filters using the Selected User Story view
@@ -27,7 +27,7 @@ Features
 * Create Links (Traces) of User Stories to code with an easy to use menu option
 
 Installation
-=======
+-------
 
 1\. Copy the latest release into your eclipse/plugins/ or eclipse/dropins/plugins directory  
 2\. Open the User Stories Tree view in Eclipse (Window > Show View > Other > User Stories > Requirements Tree)  
@@ -36,7 +36,7 @@ Installation
 5\. You're ready!  
 
 Screenshots
-=======
+-------
 
 ![User Stories Tree]({{ site.url }}/images/ustool/userstorytree.PNG)
 
@@ -69,7 +69,7 @@ Screenshots
 *Creation of Test Cases in the Test Case Editor and subsequent editing in the User Story Editor*
 
 Feedback
-=======
+-------
 Please email us at theo.kyrr@gmail.com and xristoskotsis1@hotmail.com with all your feedback!
 
 If you find a bug, apart from including reproduction steps, it would be massive help to attach the UserStoriesLog file.
