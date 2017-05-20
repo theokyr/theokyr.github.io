@@ -10,7 +10,7 @@ Active / Finished Projects:
 
 * [  **pyIrc**	](pyirc)
 
-A simple, lightweight IRC Client written in Python. Created as an assignment for my Computer Networking lab.
+A simple, lightweight IRC Client written in Python. Created as a Socket Programming assignment for my Computer Networks lab.
 
 * [ **Ruby: Dark Influence** ](ruby)
 
