@@ -5,4 +5,4 @@ layout: page
 order: 1
 ---
 
-Hobbyist programmer and undergraduate student of IT @ Thessaloniki, Greece.
+Hello! I'm Theo, a software developer and undergraduate student of IT @ Thessaloniki, Greece.

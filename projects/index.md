@@ -1,14 +1,14 @@
 ---
 title: Projects
 date: 2016-02-27
-layout: page
+layout: projectindex
 order: 2
 ---
 
 Active / Finished Projects:
 -------
 
-* [ **pyIrc** ](pyirc)
+* [  **pyIrc**	](pyirc)
 
 A simple, lightweight IRC Client written in Python. Created as an assignment for my Computer Networking lab.
 
