@@ -5,9 +5,9 @@ author:
   twitter:  
 
 menu:
-- {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Home', url: '../index.html'}
+- {name: 'Projects', url: '../projects/'}
+- {name: 'Blog', url: '../blog/'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/theokyr'}

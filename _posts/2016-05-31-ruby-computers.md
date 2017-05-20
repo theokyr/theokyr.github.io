@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Ruby Computers"
+title: "Ruby Computers"
 date:   2016-05-31 23:28:39 +0300
-categories: jekyll update
+author: "theo"
+categories: blog
+tags: [blog]
 permalink: /blog/ruby-computers
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Writing
+title: Blog Posts
+permalink: /blog-posts/
+exclude_from_nav: True
 ---
 <ul class="posts">
   {% for post in site.posts %}
