@@ -7,8 +7,8 @@ categories: blog
 tags: [blog]
 permalink: /blog/initial-commit
 image:
-  feature: cutting.jpg
-  teaser: cutting-teaser.jpg
+  feature: initial-commit.jpg
+  teaser: initial-commit-teaser.jpg
   credit:
   creditlink:
 ---
