@@ -2,7 +2,7 @@
 title: User Stories Tool - Plugin for Eclipse
 date: 2016-02-27
 layout: page
-permalink: /projects/ustool/
+permalink: /projects/ustool/legacy
 exclude_from_nav: true
 ---
 
