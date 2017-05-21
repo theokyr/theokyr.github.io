@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "404: Page not found"
+permalink: /projects/ustool/
 ---
 
 <div class="page">
