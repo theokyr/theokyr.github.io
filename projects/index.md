@@ -8,17 +8,29 @@ order: 2
 Active / Finished Projects:
 -------
 
-* [  **pyIrc**	](pyirc)
+<link rel="stylesheet" href="../css/materialize-cards.css">
 
-A simple, lightweight IRC Client written in Python. Created as a Socket Programming assignment for my Computer Networks lab.
 
-* [ **Ruby: Dark Influence** ](ruby)
+{% capture projecttitle %}{{ 'pyIrc' }}{% endcapture %}
+{% capture projectdescription %}{{ 'A simple, lightweight IRC Client written in Python. Created as a Socket Programming assignment for my Computer Networks lab.' }}{% endcapture %}
+{% capture link %}{{ 'pyirc/' }}{% endcapture %}
+{% capture linktitle %}{{ 'View Project Page' }}{% endcapture %}
+{% capture color %}{{ 'teal lighten-3' }}{% endcapture %}
+{% include project.html %}
 
-Singleplayer FPS Game for PC. Planned for release sometime in the 25th century.
+{% capture projecttitle %}{{ 'Ruby: Dark Influence' }}{% endcapture %}
+{% capture projectdescription %}{{ 'Singleplayer FPS Game for PC. Planned for release sometime in the 25th century.' }}{% endcapture %}
+{% capture link %}{{ 'ruby/' }}{% endcapture %}
+{% capture linktitle %}{{ 'View Project Page' }}{% endcapture %}
+{% capture color %}{{ 'red lighten-3' }}{% endcapture %}
+{% include project.html %}
 
-* [  **ExamNotes**	](http://aetos.it.teithe.gr/~tkyriazi/ExamNotes/index.php)
-
-A PHP script to categorize my notes for exams using Bootstrap.
+{% capture projecttitle %}{{ 'ExamNotes' }}{% endcapture %}
+{% capture projectdescription %}{{ 'A PHP script to categorize my notes for exams using Bootstrap.' }}{% endcapture %}
+{% capture link %}{{ 'http://aetos.it.teithe.gr/~tkyriazi/ExamNotes/index.php' }}{% endcapture %}
+{% capture linktitle %}{{ 'Visit ExamNotes' }}{% endcapture %}
+{% capture color %}{{ 'orange lighten-3' }}{% endcapture %}
+{% include project.html %}
 
 
 Shelved Projects:
