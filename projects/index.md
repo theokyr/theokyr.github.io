@@ -16,6 +16,10 @@ A simple, lightweight IRC Client written in Python. Created as a Socket Programm
 
 Singleplayer FPS Game for PC. Planned for release sometime in the 25th century.
 
+* [  **ExamNotes**	](http://aetos.it.teithe.gr/~tkyriazi/ExamNotes/index.php)
+
+A PHP script to categorize my notes for exams using Bootstrap.
+
 
 Shelved Projects:
 -------
