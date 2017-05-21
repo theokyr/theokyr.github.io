@@ -2,7 +2,7 @@
 title: pyIrc
 date: 2017-02-23
 layout: page
-permalink: /projects/pyirc
+permalink: /projects/pyirc/
 exclude_from_nav: true
 ---
 
