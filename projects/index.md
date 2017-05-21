@@ -13,14 +13,14 @@ Active / Finished Projects:
 
 {% capture projecttitle %}{{ 'pyIrc' }}{% endcapture %}
 {% capture projectdescription %}{{ 'A simple, lightweight IRC Client written in Python. Created as a Socket Programming assignment for my Computer Networks lab.' }}{% endcapture %}
-{% capture link %}{{ 'pyirc/' }}{% endcapture %}
+{% capture link %}{{ 'pyirc' }}{% endcapture %}
 {% capture linktitle %}{{ 'View Project Page' }}{% endcapture %}
 {% capture color %}{{ 'teal lighten-3' }}{% endcapture %}
 {% include card.html %}
 
 {% capture projecttitle %}{{ 'Ruby: Dark Influence' }}{% endcapture %}
 {% capture projectdescription %}{{ 'Singleplayer FPS Game for PC. Planned for release sometime in the 25th century.' }}{% endcapture %}
-{% capture link %}{{ 'ruby/' }}{% endcapture %}
+{% capture link %}{{ 'ruby' }}{% endcapture %}
 {% capture linktitle %}{{ 'View Project Page' }}{% endcapture %}
 {% capture color %}{{ 'red lighten-3' }}{% endcapture %}
 {% include card.html %}
